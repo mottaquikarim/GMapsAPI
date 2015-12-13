@@ -1,0 +1,12 @@
+/* CURRENTLY IN: styles/main.css */
+
+#map {
+    width: 400px;
+    height: 300px;
+    border: 1px solid black;
+}
+
+.container {
+    display: flex;
+}
+
